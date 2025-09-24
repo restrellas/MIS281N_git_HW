@@ -1,0 +1,1 @@
+The article shows three approaches to versioning data duplication, metadata based versioning, and full-scale DVC systems, highlighting their trade-offs in scalability, storage, and usability. The author believes that whatever tool we decide to use, it is more important to have a strong team culture for it to be effective which is as important as the tool they are using.
